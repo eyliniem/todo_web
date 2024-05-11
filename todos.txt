@@ -1,5 +1,4 @@
 red
-Master Python
 new todo added
 new
 blue

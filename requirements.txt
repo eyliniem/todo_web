@@ -86,7 +86,7 @@ tk==0.1.0
 tksheet==7.1.12
 toml==0.10.2
 toolz==0.11.2
-tornado==6.1
+tornado==6.2
 traitlets==5.2.2.post1
 typing_extensions==4.11.0
 tzdata==2024.1
